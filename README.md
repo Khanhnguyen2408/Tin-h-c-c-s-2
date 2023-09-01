@@ -1,1 +1,1 @@
-# Tin-h-c-c-s-2
+# THCS2
